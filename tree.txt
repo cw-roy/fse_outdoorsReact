@@ -1,0 +1,29 @@
+.
+├── outdoors
+│   ├── package.json
+│   ├── package-lock.json
+│   ├── public
+│   │   ├── favicon.ico
+│   │   ├── index.html
+│   │   ├── logo192.png
+│   │   ├── logo512.png
+│   │   ├── manifest.json
+│   │   └── robots.txt
+│   ├── README.md
+│   └── src
+│       ├── App.js
+│       ├── components
+│       │   ├── Homepage.js
+│       │   ├── MountainsInformationPage.js
+│       │   └── NationalParksSearchPage.js
+│       ├── data
+│       │   ├── locations.json
+│       │   ├── mountains.json
+│       │   ├── nationalparks.json
+│       │   └── parktypes.json
+│       └── index.js
+├── pseudocode.txt
+├── README.md
+└── tree.txt
+
+5 directories, 21 files
