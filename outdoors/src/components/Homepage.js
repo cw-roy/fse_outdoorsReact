@@ -7,8 +7,8 @@ function Homepage() {
       <h1 className="homepage-title">Enjoy the Outdoors!</h1>
       <p className="homepage-description">Welcome! Explore the great outdoors with us.</p>
       <div className="homepage-links">
-        <a href="/national-parks" className="homepage-link">National Parks</a>
-        <a href="/mountains" className="homepage-link">Mountains</a>
+        <a href="/national-parks" className="homepage-link">Search National Parks</a>
+        <a href="/mountains" className="homepage-link">Mountains Information</a>
       </div>
     </div>
   );
