@@ -45,7 +45,6 @@ function App() {
   };
 
   return (
-
     <div className="App">
       <h1>National Parks Search</h1>
       <form onSubmit={handleSubmit}>

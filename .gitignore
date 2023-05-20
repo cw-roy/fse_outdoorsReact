@@ -1,6 +1,5 @@
 # Custom items
-.defaults/
-ugly*
+.readme.md
 
 # Logs
 logs
