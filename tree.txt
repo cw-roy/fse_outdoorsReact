@@ -2,11 +2,6 @@
 ├── .git
 ├── .gitignore
 ├── outdoors
-|   ├── data
-|   |   ├── locations.json
-|   |   ├── mountains.json
-|   |   ├── nationalparks.json
-|   |   └── parktypes.json
 |   ├── node_modules
 │   ├── .gitignore
 │   ├── package.json
@@ -22,6 +17,11 @@
 │   │   └── robots.txt
 │   ├── readme.md
 │   └── src
+        ├── data
+        |   ├── locations.json
+        |   ├── mountains.json
+        |   ├── nationalparks.json
+        |   └── parktypes.json
 │       ├── App.css
 │       ├── App.js
 │       ├── App.test.js
