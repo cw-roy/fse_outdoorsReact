@@ -12,11 +12,11 @@ function App() {
     // Fetch national parks data from the file
     const fetchNationalParksData = async () => {
       try {
-        const response = await fetch('./data/nationalparks.json');
+        const response = await fetch('./data/nationalparks_copy.json');
         const data = await response.json();
         console.log('National Parks data:', data);
       } catch (error) {
-        console.error('Error fetching national parks data:', error);
+        console.error('Error fetching national parks data:', error.message);
       }
     };
 
